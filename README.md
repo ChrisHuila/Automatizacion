@@ -1,4 +1,4 @@
-# Automatización de ventas y atención al cliente
+## Automatización de ventas y atención al cliente
 Inmobiliaria El Buen Vivir – 2025
 (Chatwoot + Evolution API + n8n + Gemini + RAG + Gmail + Google Sheets)
 
@@ -8,6 +8,7 @@ Diseñé e implementé un Agente IA que libera la carga de trabajo de los agente
 •	Detecta frustración o molestia en clientes y envía alertas inmediatas a un agente humano para intervenir en la conversación
 •	Construye automáticamente un CRM en Google Sheets, registrando datos clave de cada cliente, lo que eliminó el 100% del trabajo manual de registro al equipo comercial.
 
-<img width="1112" height="382" alt="image" src="https://github.com/user-attachments/assets/16b79842-b93c-4174-ae91-3b81dbc35144" />
+<img width="1206" height="321" alt="image" src="https://github.com/user-attachments/assets/04175c07-9d43-4f29-9d53-2a3ff331e8e9" />
+
 
 
