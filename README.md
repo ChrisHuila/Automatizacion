@@ -10,5 +10,11 @@ Diseñé e implementé un Agente IA que libera la carga de trabajo de los agente
 
 <img width="1206" height="321" alt="image" src="https://github.com/user-attachments/assets/04175c07-9d43-4f29-9d53-2a3ff331e8e9" />
 
+## Atención Telefónica Inteligente
+(vapi + n8n + airtable + Gmail + twilio + Gemini )
+Restaurante el buen comer (2025)
+Implementé un sistema de atención telefónica con voz IA natural, capaz de manejar conversaciones complejas sobre menú, horarios y disponibilidad.
+Automatización de reservas en tiempo real, con confirmación inmediata vía WhatsApp y recordatorios inteligentes.
+Reduje en un 90% las ausencias a las reservaciones, aumentando la ocupación del restaurante y ahorrando al personal horas de gestión manual.
 
 
