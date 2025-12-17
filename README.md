@@ -2,7 +2,13 @@
 <p>Agencia de marketing AR  </p>
 <p>( Evolution API + n8n + Redis + Google Sheets)</p>
 
-<p>mplemente un agente IA con n8n que automatiza el envío de mensajes por WhatsApp a los leads que se encuentran en una base de datos de más de 22'000 leads, logrando reducir en un 100% el tiempo dedicado manualmente a esta tarea, además de que se logró en un 100% cualificar al lead para posteriormente hacerle un cierre. </p> 
+<p>Implemente un agente IA con n8n que automatiza el envío de mensajes por WhatsApp a los leads que se encuentran en una base de datos de más de 22'000 leads, logrando reducir en un 100% el tiempo dedicado manualmente a esta tarea, además de que se logró en un 100% cualificar al lead para posteriormente hacerle un cierre. </p> 
+
+<img width="921" height="164" alt="image" src="https://github.com/user-attachments/assets/b0f84c53-edc7-4fb2-8f4b-7e48aefe63b3" />
+<img width="921" height="332" alt="image" src="https://github.com/user-attachments/assets/c1f5fcb5-e4ba-40fd-abae-b0af5b100dc7" />
+<img width="921" height="200" alt="image" src="https://github.com/user-attachments/assets/1d711f8b-65ec-41b4-865d-a669597d4575" />
+<img width="921" height="163" alt="image" src="https://github.com/user-attachments/assets/87123f13-e2a5-4ae7-95a7-6ededb0307d6" />
+<img width="921" height="169" alt="image" src="https://github.com/user-attachments/assets/6daccae7-68ba-4e89-ae3c-2e24c3c7c590" />
 
 
 ## Automatización de ventas y atención al cliente
