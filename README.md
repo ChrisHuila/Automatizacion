@@ -41,12 +41,7 @@
 
 <img width="994" height="375" alt="image" src="https://github.com/user-attachments/assets/2a195ee3-f3cd-4efe-8dd0-da7c1454c6c2" />
 
-## Automatización de redes sociales
-<p>Arte en Resina – 2025</p>
-<p>(Facebook & Instagram, n8n)</p>
-<p>•	Automatizé la gestión de mensajes directos y comentarios en publicaciones, garantizando respuestas inmediatas y personalizadas en ambas plataformas.</p>
-<p>•	Reduje en un 60% el tiempo dedicado a la atención manual de redes sociales, lo que permitió al equipo enfocarse en la creación de contenido y ventas.</p>
-<p>•	Aumenté en un 35% la interacción con usuarios, gracias a respuestas rápidas y triggers personalizados que mejoraron la experiencia del cliente.</p>
+
 
 
 
