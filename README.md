@@ -1,5 +1,12 @@
+## Agente ia de servicio al cliente y cualificación QUE ATIENde A mas de 22'000 leads
+<p>Agencia de marketing AR  </p>
+<p>( Evolution API + n8n + Redis + Google Sheets)</p>
+
+<p>mplemente un agente IA con n8n que automatiza el envío de mensajes por WhatsApp a los leads que se encuentran en una base de datos de más de 22'000 leads, logrando reducir en un 100% el tiempo dedicado manualmente a esta tarea, además de que se logró en un 100% cualificar al lead para posteriormente hacerle un cierre. </p> 
+
+
 ## Automatización de ventas y atención al cliente
-<p>Inmobiliaria El Buen Vivir – 2025</p>
+<p>Inmobiliaria El Buen Vivir </p>
 <p>(Chatwoot + Evolution API + n8n + Gemini + RAG + Gmail + Google Sheets)</p>
 
 <p>•Optimicé la atención al cliente en WhatsApp: 100% de los mensajes fueron respondidos en menos de 30 segundos, aumentando la satisfacción de los usuarios. </p> 
