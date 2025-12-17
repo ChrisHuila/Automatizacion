@@ -1,4 +1,4 @@
-## Agente ia de servicio al cliente y cualificación QUE ATIENde A mas de 22'000 leads
+## Agente IA de servicio al cliente y cualificación que atiende a mas de 22'000 leads
 <p>Agencia de marketing AR  </p>
 <p>( Evolution API + n8n + Redis + Google Sheets)</p>
 
